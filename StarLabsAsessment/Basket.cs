@@ -24,7 +24,7 @@ namespace StarLabsAsessment
             {
                 totalPrice += pants.getDefaultPrice();
             }
-
+            
             return totalPrice;
         }
     }
